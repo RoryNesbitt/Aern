@@ -2,7 +2,7 @@
 title: Aern
 description: Welcome to Aern
 published: true
-date: 2026-02-01T22:42:37.578Z
+date: 2026-02-01T22:42:38.822Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-01T22:30:51.930Z
