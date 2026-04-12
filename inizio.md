@@ -2,7 +2,7 @@
 title: Inizio
 description: The plane of the gods and afterlife of mortals
 published: true
-date: 2026-04-12T21:07:07.852Z
+date: 2026-04-12T21:20:57.407Z
 tags: deities, locations, planes
 editor: markdown
 dateCreated: 2026-04-12T21:07:07.852Z
@@ -45,7 +45,7 @@ Limbo is the first layer encountered by souls on their way to the Underworld, an
 
 ## The Underworld
 
-The Underworld provides protection against the maddening effects of Inizio, including the influence of the Ancients. It is a sanctuary to any soul that reaches it, regardless of the life they led — though the judgements of [Cordanna](/estasi#cordanna) may determine how far within a soul is permitted to go.
+The Underworld provides protection against the maddening effects of Inizio, including the influence of the Ancients. It is a sanctuary to any soul that reaches it, regardless of the life they led — though the judgements of [Cordanna](/deities/estasi#cordanna) may determine how far within a soul is permitted to go.
 
 ### The Endless Fields
 
