@@ -2,7 +2,7 @@
 title: Inestasi
 description: The Deities of Inferno
 published: true
-date: 2026-04-12T21:11:47.217Z
+date: 2026-04-12T21:16:00.793Z
 tags: deities, devils
 editor: markdown
 dateCreated: 2026-04-12T21:11:47.217Z
@@ -10,7 +10,7 @@ dateCreated: 2026-04-12T21:11:47.217Z
 
 # Inestasi
 
-The Ancients built the universe. The [Estasi](/estasi) built Aern. The Inestasi said "I'm going home and I'm taking my ball with me."
+The Ancients built the universe. The [Estasi](/deities/estasi) built Aern. The Inestasi said "I'm going home and I'm taking my ball with me."
 
 The Inestasi are deities, just as the Estasi are, born of the same ancient magic of [Inizio](/inizio). Where the Estasi chose to shape and shepherd the mortal world, the Inestasi turned away from it — retreating to [Inferno](/inizio#inferno), a realm of their own making, layered and vast. It is unknown how many Inestasi there are in total, but those known to have had some influence on Aern are recorded here.
 
@@ -51,14 +51,14 @@ Of all the Inestasi, Ateo's change of heart is perhaps the most surprising. Watc
 ### Furia — Ferocia / Fury / The Great Warrior
 **Realm:** [The Fields of War](/inizio#the-fields-of-war) | **Influence:** War, Rage | **Nature:** Warrior
 
-Furia is the war deity of the Inestasi, though she fights for no cause other than the love of the battle itself. She has no interest in victory, territory, or glory in the way that [Vittoria](/estasi#vittoria) or [Cavali](/estasi#cavali) might understand it. What she respects is brutality — the unleashing of pure, unrestrained rage against an opponent. She does not distinguish between sides.
+Furia is the war deity of the Inestasi, though she fights for no cause other than the love of the battle itself. She has no interest in victory, territory, or glory in the way that [Vittoria](/deities/estasi#vittoria) or [Cavali](/deities/estasi#cavali) might understand it. What she respects is brutality — the unleashing of pure, unrestrained rage against an opponent. She does not distinguish between sides.
 
 ---
 
 ### Infausto — Faust / The Knowledge Hoarder
 **Realm:** [The Dark Library](/inizio#the-dark-library) | **Influence:** Knowledge, Obsession | **Nature:** Collector
 
-Faust is a vast, bloated creature — a mass of eyes and reaching appendages, drifting through his layer of Inferno, each eye fixed on a different piece of knowledge he does not yet fully possess. He collects all literature, storing it in his [Dark Library](/inizio#the-dark-library). Books created within it can become powerful artefacts if they find their way to Aern. His obsession is at its worst when it comes to the books of history kept in [Dati's](/estasi#dati) study, which he has never been able to reach.
+Faust is a vast, bloated creature — a mass of eyes and reaching appendages, drifting through his layer of Inferno, each eye fixed on a different piece of knowledge he does not yet fully possess. He collects all literature, storing it in his [Dark Library](/inizio#the-dark-library). Books created within it can become powerful artefacts if they find their way to Aern. His obsession is at its worst when it comes to the books of history kept in [Dati's](/deities/estasi#dati) study, which he has never been able to reach.
 
 ---
 
