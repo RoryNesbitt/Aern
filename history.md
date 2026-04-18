@@ -2,7 +2,7 @@
 title: History of Aern
 description: A complete history of the world of Aern
 published: true
-date: 2026-04-18T12:18:57.323Z
+date: 2026-04-18T12:21:26.744Z
 tags: history, lore
 editor: markdown
 dateCreated: 2026-04-12T16:36:10.281Z
