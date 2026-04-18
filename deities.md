@@ -2,7 +2,7 @@
 title: Deities
 description: The Gods of Aern
 published: true
-date: 2026-04-18T12:09:28.907Z
+date: 2026-04-18T12:13:33.021Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T11:46:24.866Z
@@ -38,4 +38,4 @@ The Pantheon of Azzura — beings of [Inizio](/inizio). They shaped Aern and wal
 
 ## [The Inestasi](/deities/inestasi)
 
-The beings from [Inizio](/inizio) who refused to take part in the creation of Aern. The [Inestasi](/deities/Inestasi) are gods much like the [estasi](/deities/estasi) but they built their own worlds in [Inferno](/inizio#inferno). The people of Aern see the Inestasi as Devils.
+Beings of [Inizio](/inizio) who refused to take part in the creation of Aern, the Inestasi are gods in the same sense as the [Estasi](/deities/estasi) — but where the Estasi built Aern, the Inestasi made their own worlds in  [Inferno](/inizio#inferno). To the people of Aern, they are devils.
