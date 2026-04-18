@@ -2,10 +2,10 @@
 title: History of Aern
 description: A complete history of the world of Aern
 published: true
-date: 2026-02-05T20:48:43.406Z
+date: 2026-04-18T12:18:57.323Z
 tags: history, lore
 editor: markdown
-dateCreated: 2026-02-05T20:48:43.406Z
+dateCreated: 2026-04-12T16:36:10.281Z
 ---
 
 # History of Aern
@@ -47,7 +47,7 @@ The Estasi watched with pride and, at times, concern. They began to step back �
 
 The Steel Age gave way to something more dangerous — the Azzurium Age, a period of rapid magical and technological experimentation that would eventually bring the world to its knees.
 
-The catalyst was azzurium, the blue mineral found on Azzura, the moon of Aern. Researchers discovered that azzurium could store magical energy and that, with the right knowledge, it could be used to pull that energy from [Inizio](/inizio) itself — without needing to be granted power by the gods. This was the birth of technomancy, and it spread quickly.
+The catalyst was azzurium, the blue mineral found on [Azzura](/azzura), the moon of Aern. Researchers discovered that azzurium could store magical energy and that, with the right knowledge, it could be used to pull that energy from [Inizio](/inizio) itself — without needing to be granted power by the gods. This was the birth of technomancy, and it spread quickly.
 
 <!-- TODO: rewrite this line -->
 The Estasi were deeply troubled by this. In the past, divine magic had been a gift — a connection between god and mortal, offered willingly. Technomancy circumvented this entirely. It was not stolen, exactly, but it was taken without permission, and the gods began to feel the effects of it as the ambient magic of the world was increasingly drawn into gems and machines.
@@ -58,7 +58,7 @@ The Estasi withdrew further. They did not act immediately, but their presence in
 
 The final act of the Azzurium Age was the construction of two great towers, one on each of Aern's two continents. They were the work of a now-infamous technomancer whose name has been largely scrubbed from history, though their legacy could not be more permanent.
 
-The towers were designed to reach closer to Azzura — to the moon where the Estasi were said to dwell — with the intention of drawing more divine power directly into the azzurium gems. It was a flawed technique built on a fundamental misunderstanding of the divine power. However, the research conducted in this tower was real and the connection to [Inizio](/inizio) was pulled closer.
+The towers were designed to reach closer to [Azzura](/azzura) — to the moon where the Estasi were said to dwell — with the intention of drawing more divine power directly into the azzurium gems. It was a flawed technique built on a fundamental misunderstanding of the divine power. However, the research conducted in this tower was real and the connection to [Inizio](/inizio) was pulled closer.
 
 The towers had pulled too hard on things not understood, literally pulling the continents they sit on toward each other. They had opened connections not only to [Inizio](/inizio) but also to other planes. They had opened gateways for influences of other worlds to spill out into this one.
 
