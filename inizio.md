@@ -2,7 +2,7 @@
 title: Inizio
 description: The plane of the gods and afterlife of mortals
 published: true
-date: 2026-04-18T12:24:51.825Z
+date: 2026-04-18T12:28:36.743Z
 tags: deities, locations, planes
 editor: markdown
 dateCreated: 2026-04-12T21:07:07.852Z
@@ -23,7 +23,7 @@ If a person encounters one of the Ancients on their journey through Inizio, they
 | Layer | Ruled By | Description |
 |-------|----------|-------------|
 | [Outer Inizio](#outer-inizio) | None | Chaotic borderlands where all layers bleed together |
-| [Limbo](#limbo) | [Suolo](/deities/estasi#suolo-the-wanderer) | The forest of lost souls, first stop for the dead |
+| [Limbo](#limbo) | [Suolo](/deities/estasi#suolo) | The forest of lost souls, first stop for the dead |
 | [The Underworld](#the-underworld) | [Estasi](/deities/estasi) | Sanctuary and afterlife for mortal souls |
 | [Inferno](#inferno) | [Inestasi](/deities/inestasi) | The realm of the Inestasi, carved into many layers |
 
