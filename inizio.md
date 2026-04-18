@@ -2,7 +2,7 @@
 title: Inizio
 description: The plane of the gods and afterlife of mortals
 published: true
-date: 2026-04-12T21:20:57.407Z
+date: 2026-04-18T12:24:51.825Z
 tags: deities, locations, planes
 editor: markdown
 dateCreated: 2026-04-12T21:07:07.852Z
@@ -39,7 +39,7 @@ To arrive in Inizio without being anchored to one of its layers is to find yours
 
 Limbo is the first layer encountered by souls on their way to the Underworld, and it can appear differently to different people. Most will find themselves in the Forest of Suolo — a desolate, colourless woodland with little foliage, where the silence is broken only by the distant sound of things that were once people, wandering without purpose.
 
-[Suolo](/deities/estasi#suolo-the-wanderer) guides souls through Limbo toward the Underworld. Those who are not guided, or who lose their way, risk becoming part of the landscape.
+[Suolo](/deities/estasi#suolo) guides souls through Limbo toward the Underworld. Those who are not guided, or who lose their way, risk becoming part of the landscape.
 
 ---
 
