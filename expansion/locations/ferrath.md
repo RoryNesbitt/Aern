@@ -2,7 +2,7 @@
 title: Ferrath
 description: The continent of Ferrath
 published: true
-date: 2026-04-19T17:22:54.894Z
+date: 2026-04-19T22:03:22.244Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-19T17:22:54.894Z
@@ -32,6 +32,6 @@ Most tribes treat these areas as sacred and keep their distance.
 
 ## The Tower
 
-At the centre of Ferrath, atop a vast vein of raw inizium, stands the second tower of [Vael](/expansion/vael). The tribes had already avoided this ground — it had been considered sacred and unsettling long before the tower was built. After it was erected, they avoided it completely.
+At the centre of Ferrath, atop a vast vein of raw azzurium, stands the second tower of [Vael](/expansion/vael). The tribes had already avoided this ground — it had been considered sacred and unsettling long before the tower was built. After it was erected, they avoided it completely.
 
 The tower was built to take advantage of Ferrath's closeness to other planes, drawing that connection into Vael's research. What it ultimately drew in was considerably more than intended.
