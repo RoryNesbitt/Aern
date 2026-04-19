@@ -2,7 +2,7 @@
 title: Merchant City
 description: The Capital of Thren
 published: true
-date: 2026-04-19T15:59:13.104Z
+date: 2026-04-19T16:23:27.330Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-19T15:13:18.592Z
@@ -18,7 +18,7 @@ There was no founding moment for Trademoor. A market appeared on the coast of th
 
 ## How the City Works
 
-Trademoor operates on an assigned roles system. Every resident of the city is given a role — baker, tailor, armourer, scribe, and so on — determined by aptitude, need, and to some extent preference. Pay is low, but this matters less than it might elsewhere. Within the city, residents want for very little. Housing, food, and community are all provided as a function of how the city runs. Money only becomes relevant when leaving Trademoor entirely, which most residents have little reason to do.
+Trademoor operates on an assigned roles system. Every resident is given a role — baker, tailor, armourer, scribe, and so on — determined by aptitude, need, and to some extent preference. Pay is low, but this matters less than it might elsewhere. Within the city, residents want for very little. Housing, food, and community are all provided as a function of how the city runs. Money only becomes relevant when leaving Trademoor entirely, which most residents have little reason to do.
 
 The result is a city whose primary ambitions are academic and communal rather than personal. Trademoor produces scholars, craftspeople, and civil servants rather than merchants or adventurers. It is, on the surface, something close to a utopia — though like most utopias it functions best if you do not look too hard at its edges.
 
