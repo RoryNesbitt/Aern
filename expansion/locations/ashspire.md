@@ -2,7 +2,7 @@
 title: Ashspire
 description: The town of knowledge
 published: true
-date: 2026-04-25T17:31:31.432Z
+date: 2026-04-25T17:32:06.570Z
 tags: aern, locations
 editor: markdown
 dateCreated: 2026-04-25T17:06:19.769Z
