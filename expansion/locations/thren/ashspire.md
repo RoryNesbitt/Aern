@@ -2,7 +2,7 @@
 title: Ashspire
 description: The town of knowledge
 published: true
-date: 2026-04-25T17:32:06.570Z
+date: 2026-04-25T17:34:04.470Z
 tags: aern, locations
 editor: markdown
 dateCreated: 2026-04-25T17:06:19.769Z
@@ -24,11 +24,11 @@ Those who study here leave with something that cannot be replicated elsewhere on
 
 Seven towers rise above the temple grounds. They are the heart of Ashspire's most significant research, and assignment to a tower project is the highest distinction the temple can offer a student or researcher. Most who come to Ashspire will work in the main buildings. This is not a lesser experience — the main buildings are where the foundation is laid, and without the foundation the towers are meaningless.
 
-Those who are ready for the towers will be found. The senior priest does not miss much.
+Those who are ready for the towers will be found. The archpriest does not miss much.
 
 ## Admission
 
-Ashspire accepts students on the basis of genuine aptitude and hunger for the work. Applications are considered by the temple's council of senior priests. Background, wealth, and prior connection to the temple carry less weight than the quality of a candidate's thinking and the seriousness of their intent.
+Ashspire accepts students on the basis of genuine aptitude and hunger for the work. Applications are considered by the temple's council of senior priests. Whatever your background, wealth, and prior connection to the temple is carries less weight than the quality of your thinking and the seriousness of your intent.
 
 Those who are accepted will find accommodation, a working market, and everything required to focus entirely on their studies. Those who require more than that from a place tend to find Ashspire is not the right fit.
 
