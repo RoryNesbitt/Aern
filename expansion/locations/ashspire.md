@@ -2,7 +2,7 @@
 title: Ashspire
 description: The town of knowledge
 published: true
-date: 2026-04-25T17:30:36.072Z
+date: 2026-04-25T17:31:31.432Z
 tags: aern, locations
 editor: markdown
 dateCreated: 2026-04-25T17:06:19.769Z
@@ -34,4 +34,4 @@ Those who are accepted will find accommodation, a working market, and everything
 
 ## Getting Here
 
-Ashspire is connected to Trademoor by lightning train. The journey is short. The towers are visible before anything else.
+Ashspire is connected to Trademoor by lightning train. The journey is quick. You will spot the towers before anything else.
