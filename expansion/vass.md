@@ -1,11 +1,11 @@
 ---
 title: Serac Vass
 description: The famous Technomancer
-published: true
-date: 2026-04-19T21:13:33.370Z
+published: false
+date: 2026-07-06T15:24:18.186Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-19T21:13:33.370Z
+dateCreated: 2026-05-01T15:36:36.504Z
 ---
 
 # Serac Vass
