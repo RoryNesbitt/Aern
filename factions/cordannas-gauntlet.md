@@ -1,8 +1,8 @@
 ---
 title: Cordanna's Gauntlet
 description: A travelling band of healers
-published: true
-date: 2026-04-19T16:21:35.527Z
+published: false
+date: 2026-07-06T15:24:41.924Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-19T16:21:35.527Z
