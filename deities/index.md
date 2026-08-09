@@ -1,11 +1,8 @@
 ---
 title: Deities
-description: The Gods of Aern
 published: true
-date: 2026-04-25T17:10:02.423Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-18T11:46:24.866Z
+created: 2026-04-18T11:46:24.866Z
+updated: 2026-04-25T17:10:02.423Z
 ---
 
 # Deities of Aern

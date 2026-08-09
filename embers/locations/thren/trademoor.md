@@ -1,11 +1,8 @@
 ---
 title: Merchant City
-description: The capital city of Thren
 published: true
-date: 2026-04-19T16:32:50.255Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T16:32:50.255Z
+created: 2026-04-19T16:32:50.255Z
+updated: 2026-04-19T16:32:50.255Z
 ---
 
 # Trademoor

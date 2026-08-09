@@ -1,11 +1,8 @@
 ---
 title: The Kingdom of Dragonstail
-description: The Kingdom built around Dragonstail Castle
 published: true
-date: 2026-04-19T16:53:25.113Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T16:53:25.113Z
+created: 2026-04-19T16:53:25.113Z
+updated: 2026-04-19T16:53:25.113Z
 ---
 
 # Dragonstail Castle

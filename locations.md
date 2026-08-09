@@ -1,11 +1,8 @@
 ---
 title: Locations
-description: Places in Aern
 published: true
-date: 2026-04-19T13:48:23.015Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T13:48:23.015Z
+created: 2026-04-19T13:48:23.015Z
+updated: 2026-04-19T13:48:23.015Z
 ---
 
 # Locations of Aern

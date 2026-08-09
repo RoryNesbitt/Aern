@@ -1,11 +1,8 @@
 ---
 title: Estasi
-description: The Pantheon of Azzura
 published: true
-date: 2026-04-18T11:38:49.862Z
-tags: deities
-editor: markdown
-dateCreated: 2026-02-05T20:48:43.406Z
+created: 2026-02-05T20:48:43.406Z
+updated: 2026-04-18T11:38:49.862Z
 ---
 
 # Estasi

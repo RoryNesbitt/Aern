@@ -1,11 +1,8 @@
 ---
 title: The Wildlands
-description: The wilderness on the east side of the mountains
 published: true
-date: 2026-04-19T17:36:56.100Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T17:36:56.100Z
+created: 2026-04-19T17:36:56.100Z
+updated: 2026-04-19T17:36:56.100Z
 ---
 
 # The Wildlands

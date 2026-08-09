@@ -1,11 +1,8 @@
 ---
 title: Dragonstail Reach
-description: The Castle that sits on the Dragonstail River
 published: true
-date: 2026-04-19T16:24:38.619Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T16:07:19.355Z
+created: 2026-04-19T16:07:19.355Z
+updated: 2026-04-19T16:24:38.619Z
 ---
 
 # Dragonstail Reach

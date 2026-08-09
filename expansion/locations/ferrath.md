@@ -1,11 +1,8 @@
 ---
 title: Ferrath
-description: The continent of Ferrath
 published: true
-date: 2026-04-19T22:03:22.244Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T17:22:54.894Z
+created: 2026-04-19T17:22:54.894Z
+updated: 2026-04-19T22:03:22.244Z
 ---
 
 # Ferrath

@@ -1,11 +1,8 @@
 ---
 title: Technology
-description: Applications of the arcane lightning
 published: true
-date: 2026-04-19T22:01:57.481Z
-tags: 
-editor: markdown
-dateCreated: 2026-04-19T22:01:57.481Z
+created: 2026-04-19T22:01:57.481Z
+updated: 2026-04-19T22:01:57.481Z
 ---
 
 # Technology of the Azzurium Age

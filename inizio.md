@@ -1,11 +1,8 @@
 ---
 title: Inizio
-description: The plane of the gods and afterlife of mortals
 published: true
-date: 2026-04-18T12:28:36.743Z
-tags: deities, locations, planes
-editor: markdown
-dateCreated: 2026-04-12T21:07:07.852Z
+created: 2026-04-12T21:07:07.852Z
+updated: 2026-04-18T12:28:36.743Z
 ---
 
 # Inizio

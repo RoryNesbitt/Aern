@@ -1,11 +1,8 @@
 ---
 title: Inestasi
-description: The Deities of Inferno
 published: true
-date: 2026-04-12T21:19:17.485Z
-tags: deities, devils
-editor: markdown
-dateCreated: 2026-04-12T21:11:47.217Z
+created: 2026-04-12T21:11:47.217Z
+updated: 2026-04-12T21:19:17.485Z
 ---
 
 # Inestasi

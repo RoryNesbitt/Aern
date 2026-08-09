@@ -1,11 +1,8 @@
 ---
 title: The Viles Caves
-description: The deep cave network beneath the surface of Aern
 published: true
-date: 2026-04-25T17:11:29.751Z
-tags: aern, locations
-editor: markdown
-dateCreated: 2026-04-12T20:48:15.654Z
+created: 2026-04-12T20:48:15.654Z
+updated: 2026-04-25T17:11:29.751Z
 ---
 
 # The Vile Caves

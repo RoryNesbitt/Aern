@@ -1,11 +1,8 @@
 ---
 title: Ashspire
-description: The keepers of history
 published: true
-date: 2026-04-25T18:08:40.429Z
-tags: aern, locations, thren
-editor: markdown
-dateCreated: 2026-04-25T17:34:28.766Z
+created: 2026-04-25T17:34:28.766Z
+updated: 2026-04-25T18:08:40.429Z
 ---
 
 # Ashspire
