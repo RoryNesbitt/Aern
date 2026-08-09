@@ -53,4 +53,4 @@ The trains are the most visible application of this technology. Their rods pull 
 
 ## Ashspire
 
-Some distance from Trademoor sits [Ashspire](/expansion/locations/thren/ashspire), the empire's great university town, connected to the capital by lightning train. Ashspire contains only its university buildings, a small market, and accommodation, and relies heavily on shipments from Trademoor to keep its stalls stocked.
+Some distance from Trademoor sits [[expansion/locations/thren/ashspire|Ashspire]], the empire's great university town, connected to the capital by lightning train. Ashspire contains only its university buildings, a small market, and accommodation, and relies heavily on shipments from Trademoor to keep its stalls stocked.

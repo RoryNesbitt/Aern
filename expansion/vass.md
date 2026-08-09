@@ -11,7 +11,7 @@ Serac Vass is the foremost technomancer of the Azzurium Age. His research into t
 
 ## Study
 
-Serac comes up through the towers of [Ashspire](/expansion/locations/thren/ashspire) at a time when technomancy is still finding the edges of what it can do. He is not the most celebrated student of his intake, by most accounts, but he is the most persistent. Where others are satisfied to learn the applications of arcane power, Serac wants to understand what it actually is.
+Serac comes up through the towers of [[expansion/locations/thren/ashspire|Ashspire]] at a time when technomancy is still finding the edges of what it can do. He is not the most celebrated student of his intake, by most accounts, but he is the most persistent. Where others are satisfied to learn the applications of arcane power, Serac wants to understand what it actually is.
 
 His early published work addresses the mechanics of arcane gem charging, the principles of sustainable energy capture, and the theoretical basis for long-distance power transfer. The lightning trains owe their design in no small part to his foundational papers. Artificers across the empire build careers on methods he establishes before his thirtieth year.
 

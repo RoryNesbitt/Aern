@@ -24,7 +24,7 @@ The ages of Aern are broadly understood as follows:
 
 ## The Age of Guidance
 
-In the earliest days of Aern, the world was young and the [Estasi](/estasi) were present in it. Vivere had built the world and filled it with life, and the other gods walked among their people, teaching them, guiding them, and sometimes intervening directly in mortal affairs.
+In the earliest days of Aern, the world was young and the [[estasi|Estasi]] were present in it. Vivere had built the world and filled it with life, and the other gods walked among their people, teaching them, guiding them, and sometimes intervening directly in mortal affairs.
 
 This was a time of heroes. The Estasi would often take a particular interest in an individual, becoming their patron deity and granting them a connection to divine magic. These figures became legends — some of them still remembered in folk tales and religious texts long after the age itself had passed.
 
@@ -44,7 +44,7 @@ The Estasi watched with pride and, at times, concern. They began to step back �
 
 The Steel Age gave way to something more dangerous — the Azzurium Age, a period of rapid magical and technological experimentation that would eventually bring the world to its knees.
 
-The catalyst was azzurium, the blue mineral found on [Azzura](/azzura), the moon of Aern. Researchers discovered that azzurium could store magical energy and that, with the right knowledge, it could be used to pull that energy from [Inizio](/inizio) itself — without needing to be granted power by the gods. This was the birth of technomancy, and it spread quickly.
+The catalyst was azzurium, the blue mineral found on [[azzura|Azzura]], the moon of Aern. Researchers discovered that azzurium could store magical energy and that, with the right knowledge, it could be used to pull that energy from [[inizio|Inizio]] itself — without needing to be granted power by the gods. This was the birth of technomancy, and it spread quickly.
 
 <!-- TODO: rewrite this line -->
 The Estasi were deeply troubled by this. In the past, divine magic had been a gift — a connection between god and mortal, offered willingly. Technomancy circumvented this entirely. It was not stolen, exactly, but it was taken without permission, and the gods began to feel the effects of it as the ambient magic of the world was increasingly drawn into gems and machines.
@@ -55,9 +55,9 @@ The Estasi withdrew further. They did not act immediately, but their presence in
 
 The final act of the Azzurium Age was the construction of two great towers, one on each of Aern's two continents. They were the work of a now-infamous technomancer whose name has been largely scrubbed from history, though their legacy could not be more permanent.
 
-The towers were designed to reach closer to [Azzura](/azzura) — to the moon where the Estasi were said to dwell — with the intention of drawing more divine power directly into the azzurium gems. It was a flawed technique built on a fundamental misunderstanding of the divine power. However, the research conducted in this tower was real and the connection to [Inizio](/inizio) was pulled closer.
+The towers were designed to reach closer to [[azzura|Azzura]] — to the moon where the Estasi were said to dwell — with the intention of drawing more divine power directly into the azzurium gems. It was a flawed technique built on a fundamental misunderstanding of the divine power. However, the research conducted in this tower was real and the connection to [[inizio|Inizio]] was pulled closer.
 
-The towers had pulled too hard on things not understood, literally pulling the continents they sit on toward each other. They had opened connections not only to [Inizio](/inizio) but also to other planes. They had opened gateways for influences of other worlds to spill out into this one.
+The towers had pulled too hard on things not understood, literally pulling the continents they sit on toward each other. They had opened connections not only to [[inizio|Inizio]] but also to other planes. They had opened gateways for influences of other worlds to spill out into this one.
 
 ---
 

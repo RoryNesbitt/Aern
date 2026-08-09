@@ -17,7 +17,7 @@ The kingdom that grew around the Reach is stable, well defended, and economicall
 
 ## The Claim
 
-House Reach holds that governance requires more than a location. Legitimate rule, in their view, is demonstrated — through lineage, through sustained protection of the people, through the building of something that functions and endures. The merchants guild in [Trademoor](/embers/locations/thren/trademoor) offers a city and a tradition as argument. The Reach offers a kingdom and a proven line of rulers.
+House Reach holds that governance requires more than a location. Legitimate rule, in their view, is demonstrated — through lineage, through sustained protection of the people, through the building of something that functions and endures. The merchants guild in [[embers/locations/thren/trademoor|Trademoor]] offers a city and a tradition as argument. The Reach offers a kingdom and a proven line of rulers.
 
 The contest between these two positions has shaped the politics of Thren throughout the Age of Embers. Neither side has been willing to force a conclusion. Neither has been willing to concede one.
 

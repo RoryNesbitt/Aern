@@ -7,7 +7,7 @@ updated: 2026-04-19T22:01:57.481Z
 
 # Technology of the Azzurium Age
 
-The Azzurium Age takes its name from azzurium — the blue mineral found on [Azzura](/azzura), Aern's moon — but the technology that defines it runs on something older and stranger than any mineral. It runs on divine power, pulled directly from the plane of the gods and put to work in engines, tools, and machines that most people use without thinking too hard about what is actually inside them.
+The Azzurium Age takes its name from azzurium — the blue mineral found on [[azzura|Azzura]], Aern's moon — but the technology that defines it runs on something older and stranger than any mineral. It runs on divine power, pulled directly from the plane of the gods and put to work in engines, tools, and machines that most people use without thinking too hard about what is actually inside them.
 
 ## Arcane Power
 

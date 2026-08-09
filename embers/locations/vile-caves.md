@@ -7,7 +7,7 @@ updated: 2026-04-25T17:11:29.751Z
 
 # The Vile Caves
 
-Deep under Aern's surface lie the Vile Caves — a series of vast chasms and interconnected tunnels stretching from the shallow reaches of the upper rock all the way down to the edge of [Inferno](/inizio#inferno) itself. At their deepest level the Vile Caves connect directly to the [Demonweb](/inizio#the-demonweb), Ammazzare's layer of Inferno, and the hellish landscape of that plane has seeped upward over time, shaping the stone and the creatures that call it home.
+Deep under Aern's surface lie the Vile Caves — a series of vast chasms and interconnected tunnels stretching from the shallow reaches of the upper rock all the way down to the edge of [[inizio#inferno|Inferno]] itself. At their deepest level the Vile Caves connect directly to the [[inizio#the-demonweb|Demonweb]], Ammazzare's layer of Inferno, and the hellish landscape of that plane has seeped upward over time, shaping the stone and the creatures that call it home.
 
 The vile influence of these caves corrupts anything that spends too long within them. The deeper you descend, the more horrific the creatures and the more intense the corruption becomes.
 
@@ -29,15 +29,15 @@ Pushing further down, the caves become less and less hospitable. The tunnels ope
 
 ### The Chasms
 
-At the deepest level of the Vile Caves lie several vast open chasms. These are the domain of demonic monstrosities — creatures made from people captured by Amma Zara in her web. Large sections of these chasms are strung with her silk, used to snare new victims and drag them down toward [Inferno](/inizio#inferno).
+At the deepest level of the Vile Caves lie several vast open chasms. These are the domain of demonic monstrosities — creatures made from people captured by Amma Zara in her web. Large sections of these chasms are strung with her silk, used to snare new victims and drag them down toward [[inizio#inferno|Inferno]].
 
-The influence of the [Demonweb's](/inizio#demonweb) connection is unmistakable here. Large portions of the rock, in some places entire chasms, are formed from hellstone. Rivers of magma flow slowly through the wider passages. Volcanic ash coats almost every surface.
+The influence of the [[inizio#demonweb|Demonweb's]] connection is unmistakable here. Large portions of the rock, in some places entire chasms, are formed from hellstone. Rivers of magma flow slowly through the wider passages. Volcanic ash coats almost every surface.
 
 ---
 
 ## Arcane Outposts
 
-During the [Azzurium Age](/history#the-azzurium-age), a research project was undertaken to catalogue every creature living at every level of the Vile Caves. Aware of the risks of prolonged exposure, the researchers sent automatons ahead of them to construct safe outposts before any person descended.
+During the [[history#the-azzurium-age|Azzurium Age]], a research project was undertaken to catalogue every creature living at every level of the Vile Caves. Aware of the risks of prolonged exposure, the researchers sent automatons ahead of them to construct safe outposts before any person descended.
 
 These outposts can be found at all levels of the caves. Those in the Shallow Caves are large and well-equipped — fitted with steam power generators, alchemic workstations, and dedicated research centres. The outposts deeper in the Chasms are smaller, intended only as safe havens to rest between periods of work.
 

@@ -9,11 +9,11 @@ updated: 2026-04-25T18:08:40.429Z
 
 The knowledge of history is locked behind the papers in Ashspire temple. Its doors are open to researchers who want to unlock the secrets of the past.
 
-The temple of [Dati — the Scholar](/deities/estasi#dati), keeper of all knowledge and history — has stood at the centre of Ashspire city for centuries. Its libraries hold records, research, and scholarship accumulated across generations. Much of it is old enough that understanding it fully requires as much detective work as academic study — papers written from knowledge that has changed, notes that assumed the world could only move forward. There is more here than anyone has yet had time to read properly, and Ashspire is looking for people willing to help change that.
+The temple of [[deities/estasi#dati|Dati — the Scholar]], keeper of all knowledge and history — has stood at the centre of Ashspire city for centuries. Its libraries hold records, research, and scholarship accumulated across generations. Much of it is old enough that understanding it fully requires as much detective work as academic study — papers written from knowledge that has changed, notes that assumed the world could only move forward. There is more here than anyone has yet had time to read properly, and Ashspire is looking for people willing to help change that.
 
 ## Studying at Ashspire
 
-To study at Ashspire is to study under [Dati](/deities/estasi#dati). Research and worship are the same practice here — the pursuit of knowledge is devotion, and has always been. Students who arrive expecting to separate the two find the distinction doesn't hold for long.
+To study at Ashspire is to study under [[deities/estasi#dati|Dati]]. Research and worship are the same practice here — the pursuit of knowledge is devotion, and has always been. Students who arrive expecting to separate the two find the distinction doesn't hold for long.
 
 The temple accepts students on the basis of aptitude and genuine intent. Background and wealth carry less weight than the quality of a candidate's thinking and the seriousness of their purpose. Applications are considered by the council of senior priests, and those who are accepted will find themselves working alongside researchers engaged in some of the most significant scholarly work being done on Thren.
 

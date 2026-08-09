@@ -7,9 +7,9 @@ updated: 2026-04-25T17:34:04.470Z
 
 # Ashspire
 
-The temple of [Dati](/deities/estasi#dati) stands at the centre of Ashspire, and has done for longer than most institutions on Thren have existed. It is the foremost place of learning in the empire — not because it claims to be, but because the knowledge accumulated within its walls, and the people who have passed through them, speak for themselves.
+The temple of [[deities/estasi#dati|Dati]] stands at the centre of Ashspire, and has done for longer than most institutions on Thren have existed. It is the foremost place of learning in the empire — not because it claims to be, but because the knowledge accumulated within its walls, and the people who have passed through them, speak for themselves.
 
-Ashspire is not a university that happens to be housed in a temple. It is a temple whose practice is the pursuit of knowledge in all its forms. To study here is to study under [Dati — the Scholar](/deities/estasi#dati). Wether you join as a researcher or as a worshipper, the work here is our devotion to the Lorekeeper.
+Ashspire is not a university that happens to be housed in a temple. It is a temple whose practice is the pursuit of knowledge in all its forms. To study here is to study under [[deities/estasi#dati|Dati — the Scholar]]. Wether you join as a researcher or as a worshipper, the work here is our devotion to the Lorekeeper.
 
 ## What Ashspire Offers
 

@@ -9,7 +9,7 @@ updated: 2026-04-18T11:38:49.862Z
 
 While the influences of Life, Chaos, and Dream are still clearly present, these Ancient Gods have long been forgotten in the mortal planes.
 
-The Pantheon of Azzura, however, are widely known and worshipped. They gain their name from the blue moon of Aern that it is said they live on. It is the azzurium of Azzura that connects the Estasi to this location, however they were born from the ancient magic of [Inizio](/inizio). Some Estasi have a direct connection to one of the ancient deities, like John and Dream, but most get their divine power from being a creature of Inizio.
+The Pantheon of Azzura, however, are widely known and worshipped. They gain their name from the blue moon of Aern that it is said they live on. It is the azzurium of Azzura that connects the Estasi to this location, however they were born from the ancient magic of [[inizio|Inizio]]. Some Estasi have a direct connection to one of the ancient deities, like John and Dream, but most get their divine power from being a creature of Inizio.
 
 ## The Pantheon of Azzura
 

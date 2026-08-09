@@ -35,6 +35,6 @@ The market has a rhythm to it that the rest of the city organises itself around.
 
 ## The Political Situation
 
-Trademoor's authority over Thren is contested. [Dragonstail Reach](/embers/locations/thren/dragonstail), to the south, has grown in the centuries since the Convergence into a significant power in its own right, and its ruling family disputes the guild's claim to continental governance.
+Trademoor's authority over Thren is contested. [[embers/locations/thren/dragonstail|Dragonstail Reach]], to the south, has grown in the centuries since the Convergence into a significant power in its own right, and its ruling family disputes the guild's claim to continental governance.
 
 The conflict has not become open war, but it has never fully cooled. Skirmishes occur at the margins. Each side works to secure the loyalty of the settlements between them. Trademoor's position is straightforward: the capital is the capital, the guild has governed since before the Convergence, and no amount of southern ambition changes what the city is and what that means.

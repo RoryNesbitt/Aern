@@ -9,7 +9,7 @@ updated: 2026-07-06T15:24:41.924Z
 
 Cordanna's Gauntlet is an organisation of protectors operating across Thren. They travel without insignia and do not identify themselves by name. Those who have been helped by them often do not know who helped them — only that a group of capable strangers intervened and then moved on.
 
-They take their name from [Cordanna](/deities/estasi#cordanna), goddess of order and justice. The name is the only thing they carry openly.
+They take their name from [[deities/estasi#cordanna|Cordanna]], goddess of order and justice. The name is the only thing they carry openly.
 
 ## What They Do
 

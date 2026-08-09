@@ -13,16 +13,16 @@ The gods of Aern are not distant myths — they are real, named, and knowable. W
 
 ## The Ancients
 
-The first beings of this universe, predating even Aern itself. The Ancients are the source from which [Inizio](/inizio) itself was born. To truly understand one would require more than a mortal mind is capable of. To witness one is to risk losing that mind entirely.
+The first beings of this universe, predating even Aern itself. The Ancients are the source from which [[inizio|Inizio]] itself was born. To truly understand one would require more than a mortal mind is capable of. To witness one is to risk losing that mind entirely.
 
 ---
 
-## [The Estasi](/deities/estasi)
+## [[deities/estasi|The Estasi]]
 
-The Pantheon of Azzura — beings of [Inizio](/inizio). They shaped Aern and walked among its people. They are widely worshipped, each governing a domain of mortal life from creation and death to storms, harvests, and hearth-fires.
+The Pantheon of Azzura — beings of [[inizio|Inizio]]. They shaped Aern and walked among its people. They are widely worshipped, each governing a domain of mortal life from creation and death to storms, harvests, and hearth-fires.
 
 ---
 
-## [The Inestasi](/deities/inestasi)
+## [[deities/inestasi|The Inestasi]]
 
-Beings of [Inizio](/inizio) who refused to take part in the creation of Aern, the Inestasi are gods in the same sense as the [Estasi](/deities/estasi) — but where the Estasi built Aern, the Inestasi made their own worlds in  [Inferno](/inizio#inferno). To the people of Aern, they are devils.
+Beings of [[inizio|Inizio]] who refused to take part in the creation of Aern, the Inestasi are gods in the same sense as the [[deities/estasi|Estasi]] — but where the Estasi built Aern, the Inestasi made their own worlds in  [[inizio#inferno|Inferno]]. To the people of Aern, they are devils.
